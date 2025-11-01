@@ -1,0 +1,22 @@
+filename,aadhaar_number,name,dob,gender,raw_text,fraud_score,label,timestamp,aadhaar_number_raw,aadhaar_digits,aadhaar_verhoeff_valid
+sample_image1.jpg,8173 2997 3675,FART ABHISHEK,07/08/2002,Male,fart Abhishek Tiwari DOB : 07/08/2002 Get / MALE           8173 2997 3675 ART AL,0.0,Valid Aadhaar,2025-10-25 21:55:57,,,
+83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,Not Found,DONALD TRUMP,16/07/1946,Not Found,,0.7,Fake Aadhaar,2025-10-25 21:58:29,,,
+053b0341-9c4a-4cec-bc30-5c2ea8abb400.png,8374 3834 7012,ONE ALA,17/09/1950,Male,,0.0,Valid Aadhaar,2025-10-25 22:01:07,,,
+adhar.jpg,2012 2239 4443,CAAA AY,07/08/2004,Male,,0.0,Valid Aadhaar,2025-10-25 22:01:20,,,
+83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,Not Found,DONALD TRUMP,16/07/1946,Not Found,,0.7,Fake Aadhaar,2025-10-25 22:03:04,,,
+adhar.jpg,2012 2239 4443,CAAA AY,07/08/2004,Male,,0.0,Valid Aadhaar,2025-10-25 22:03:33,,,
+b963bec7-1497-4193-b463-a6b50d585e73.png,Not Found,OF INDIA,05/06/2005,Male,,0.5,Fake Aadhaar,2025-10-25 22:03:49,,,
+sample_image1.jpg,8173 2997 3675,CLAIR AFTRTS,07/08/2002,Male,,0.0,Valid Aadhaar,2025-10-25 22:04:08,,,
+053b0341-9c4a-4cec-bc30-5c2ea8abb400.png,8374 3834 7012,ONE ALA,17/09/1950,Male,,0.0,Valid Aadhaar,2025-10-26 22:42:21,,,
+WhatsApp_Image_2025-09-28_at_11.05.55_8a5d4c0f.jpg,Not Found,BIN CNTS,Not Found,Male,,0.5,Fake Aadhaar,2025-10-26 22:42:49,,,
+053b0341-9c4a-4cec-bc30-5c2ea8abb400.png,,COO GOVERNMENT OF INDIE,17/09/1950,Male,,0.85,Fake Aadhaar,2025-10-26 22:45:45,8374 3834 7012,837438347012.0,False
+WhatsApp_Image_2025-09-28_at_11.05.55_8a5d4c0f.jpg,,AE TE KORITATA LAKSHMI,Not Found,Not Found,,0.75,Fake Aadhaar,2025-10-26 22:46:01,Not Found,Not Found,False
+ad1.jpg,,ONLINE AUTHENTICATION,01/01/2004,Female,,0.0,Valid Aadhaar,2025-10-26 22:46:15,2600 2787 0706,260027870706,True
+adhar.png,,SHAMMA MACCENNEENBASESNATESSAASADSDSCEACASESSSRG,Not Found,Female,,0.95,Fake Aadhaar,2025-10-26 22:46:56,3352 26271081,335226271081,False
+pan.png,,PAIMANENT ACONMT NUMBER CAD,Not Found,Not Found,,0.75,Fake Aadhaar,2025-10-26 22:52:09,Not Found,Not Found,False
+ad1.jpg,,ONLINE AUTHENTICATION,01/01/2004,Female,,0.0,Valid Aadhaar,2025-10-27 17:57:23,2600 2787 0706,260027870706,True
+pan.png,,PAIMANENT ACONMT NUMBER CAD,Not Found,Not Found,,0.75,Fake Aadhaar,2025-10-27 17:57:51,Not Found,Not Found,False
+pan.png,,PAIMANENT ACONMT NUMBER CAD,Not Found,Not Found,,0.75,Fake Aadhaar,2025-10-27 17:57:53,Not Found,Not Found,False
+83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,,CO GOVERNMENT OF INDIE,16/07/1946,Not Found,,0.9,Fake Aadhaar,2025-10-27 17:58:04,7283 7203 8230,728372038230,False
+ad1.jpg,,ONLINE AUTHENTICATION,01/01/2004,Female,,0.0,Valid Aadhaar,2025-10-27 18:04:42,2600 2787 0706,260027870706,True
+83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,,CO GOVERNMENT OF INDIE,16/07/1946,Not Found,,0.9,Fake Aadhaar,2025-10-27 18:04:59,7283 7203 8230,728372038230,False

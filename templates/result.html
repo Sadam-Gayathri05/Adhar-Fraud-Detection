@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aadhaar OCR Result</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #f4f7fb;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(90deg, #007bff, #00c6ff);
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 1.8em;
+      letter-spacing: 1px;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 1100px;
+      margin: 40px auto;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      padding: 25px;
+    }
+
+    .images {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .images img {
+      width: 48%;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+
+    .details {
+      margin-top: 25px;
+    }
+
+    .details table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .details th {
+      text-align: left;
+      background: #007bff;
+      color: white;
+      padding: 10px;
+      border-radius: 8px 8px 0 0;
+    }
+
+    .details td {
+      padding: 10px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .label {
+      font-weight: bold;
+      color: #007bff;
+    }
+
+    .status {
+      margin-top: 20px;
+      font-size: 1.2em;
+      font-weight: 600;
+      text-align: center;
+      padding: 15px;
+      border-radius: 8px;
+      color: white;
+    }
+
+    .valid {
+      background-color: #28a745;
+    }
+
+    .fake {
+      background-color: #dc3545;
+    }
+
+    .back-btn {
+      display: block;
+      width: 200px;
+      margin: 30px auto 10px;
+      padding: 12px;
+      text-align: center;
+      background: #007bff;
+      color: white;
+      font-size: 1em;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.3s;
+    }
+
+    .back-btn:hover {
+      background: #0056b3;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Aadhaar OCR Result</h1>
+  </header>
+
+  <div class="container">
+    <div class="images">
+      <div>
+        <h3>Original Image</h3>
+        <img src="{{ original_image }}" alt="Original Aadhaar" />
+      </div>
+      <div>
+        <h3>OCR Detection</h3>
+        <img src="{{ boxed_image }}" alt="Detected Aadhaar" />
+      </div>
+    </div>
+
+    <div class="details">
+      <h3>Extracted Details</h3>
+      <table>
+        <tr><td class="label">Name:</td><td>{{ details.name }}</td></tr>
+        <tr><td class="label">DOB:</td><td>{{ details.dob }}</td></tr>
+        <tr><td class="label">Gender:</td><td>{{ details.gender }}</td></tr>
+        <tr><td class="label">Aadhaar Number:</td><td>{{ details.aadhaar_number }}</td></tr>
+        <tr><td class="label">Fraud Score:</td><td>{{ details.fraud_score }}</td></tr>
+        <tr><td class="label">Timestamp:</td><td>{{ details.timestamp }}</td></tr>
+      </table>
+    </div>
+
+    <div class="status {% if details.label == 'Valid Aadhaar' %}valid{% else %}fake{% endif %}">
+      {{ details.label }}
+    </div>
+
+    <a href="/" class="back-btn">← Upload Another</a>
+  </div>
+
+  <footer>
+    © 2025 Aadhaar Fraud Detector | Flask OCR Demo
+  </footer>
+</body>
+</html>

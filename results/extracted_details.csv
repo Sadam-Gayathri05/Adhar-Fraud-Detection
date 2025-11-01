@@ -1,0 +1,351 @@
+timestamp,filename,aadhaar_no,name,dob,gender,fraud_score,label,raw_text,aadhaar_number
+2025-10-24 22:09:56,adhar.jpg,,F,,,0.0,Not a Valid Aadhaar,F,
+2025-10-24 22:15:37,adhar.jpg,,KORITALA SOWJANYA,07/08/2004,Male,,,"EX I  KORITALA SOWJANYA DOB: 07/08/2004 FEMALE  ISSUE DATE: 06/03/2012  2239 4443 3080 PRT 3TEIX, ALT TEARET",2239 4443 3080
+2025-10-24 22:16:49,adhar.jpg,,KORITALA SOWJANYA,07/08/2004,Male,,,"EX I  KORITALA SOWJANYA DOB: 07/08/2004 FEMALE  ISSUE DATE: 06/03/2012  2239 4443 3080 PRT 3TEIX, ALT TEARET",2239 4443 3080
+2025-10-24 22:19:21,adhar.jpg,,end,07/08/2004,Female,,,end 5 CJT eer yas e Fee .. JAW. Gap CGovemment of nda arene \ n - . oS roo ™ Korltala Sowjanya ‘ 3 el =e Dos: 07/08/2004 { s A Female i 3|- aK ra . } 8 NN cali Aa 2239 4443 3080 “4 . i,2239 4443 3080
+2025-10-24 22:19:48,0c0584201ff552c4bdcbe160315aa432_jpg.rf.2b6b3019429fe97ca467ac2f5509fb48.jpg,,\,,,,,"\ oo N\_| NIRUPHA PUSHOARNA (2 (ee )as tress al"" & Ke aay vd aTi6 08138075 RUN <3 HE a ate |",
+2025-10-24 22:25:57,b963bec7-1497-4193-b463-a6b50d585e73.png,,(DT,05/06/2005,,,,(DT ara / Name: an SAMANTHA oA are / DOB: 05/06/2005 eee oe a 3546 7897 4384 Sate Rosa aa 31 - SIGH! HT See,3546 7897 4384
+2025-10-24 22:28:18,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:28:33,adhar.jpg,,CAAA AY,07/08/2004,Male,0.0,Valid Aadhaar,"CAAA AY \
+CGayernmentorinda——se => “Srrtrre |
+
+Koritala Sowjanya
+cos: 07/08/2004
+Female
+
+Issue.Date: 06/03/2012
+
+2239 4443 3080
+ART Ze, ALT WeeeT",2239 4443 3080
+2025-10-24 22:28:55,0c0584201ff552c4bdcbe160315aa432_jpg.rf.8760ce7c248c5f9c7cc61e6e96848eb4.jpg,,SIRUPWA PUSHKARNA,Not Found,Male,1.0,Fake Aadhaar,"& Coot “qeor i,
+
+NN. SIRUPWA PUSHKARNA
+zon aeyoR: 1951
+
+aikat Female
+
+a
+
+|
+
+_
+sre «a aT aT SATA",Not Found
+2025-10-24 22:29:23,pancard.jpg,,INCOME TAX,07/08/2004,Not Found,1.0,Fake Aadhaar,"—$—$—$—$ a
+
+INCOME TAX DEPARTMENT
+
+cart den wen ars
+
+Permanent Account Number Card
+PFVPK0109D
+
+ata | Name
+KORITALA SOWJANYA
+
+fae cht ATs / Father's Name
+BHASKARA RAO KORITALA
+
+wadietia 6 92
+Ga foot Ke Sayer.
+
+07/08/2004 PETA I Signature",Not Found
+2025-10-24 22:31:26,adhar.jpg,,CAAA AY,07/08/2004,Male,0.0,Valid Aadhaar,"CAAA AY \
+CGayernmentorinda——se => “Srrtrre |
+
+Koritala Sowjanya
+cos: 07/08/2004
+Female
+
+Issue.Date: 06/03/2012
+
+2239 4443 3080
+ART Ze, ALT WeeeT",2239 4443 3080
+2025-10-24 22:31:35,pancard.jpg,,INCOME TAX,07/08/2004,Not Found,1.0,Fake Aadhaar,"—$—$—$—$ a
+
+INCOME TAX DEPARTMENT
+
+cart den wen ars
+
+Permanent Account Number Card
+PFVPK0109D
+
+ata | Name
+KORITALA SOWJANYA
+
+fae cht ATs / Father's Name
+BHASKARA RAO KORITALA
+
+wadietia 6 92
+Ga foot Ke Sayer.
+
+07/08/2004 PETA I Signature",Not Found
+2025-10-24 22:31:50,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:34:53,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:35:30,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:39:04,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:46:07,b963bec7-1497-4193-b463-a6b50d585e73.png,,OF INDIA,05/06/2005,Male,1.0,Fake Aadhaar,"ON) OF INDIA Sa
+(DT
+
+ala / Name:
+SAMANTHA
+
+wa arta / DOB: 05/06/2005
+yey / Female",Not Found
+2025-10-24 22:46:26,pancard.jpg,,INCOME TAX,07/08/2004,Not Found,1.0,Fake Aadhaar,"—$—$—$—$ a
+
+INCOME TAX DEPARTMENT
+
+cart den wen ars
+
+Permanent Account Number Card
+PFVPK0109D
+
+ata | Name
+KORITALA SOWJANYA
+
+fae cht ATs / Father's Name
+BHASKARA RAO KORITALA
+
+wadietia 6 92
+Ga foot Ke Sayer.
+
+07/08/2004 PETA I Signature",Not Found
+2025-10-24 22:58:10,83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,,DONALD TRUMP,16/07/1946,Not Found,1.0,Fake Aadhaar,"donald trump
+oa ak / DOB: 16/07/1946",Not Found
+2025-10-24 22:58:54,adhar.jpg,,CAAA AY,07/08/2004,Male,0.0,Valid Aadhaar,"CAAA AY \
+CGayernmentorinda——se => “Srrtrre |
+
+Koritala Sowjanya
+cos: 07/08/2004
+Female
+
+Issue.Date: 06/03/2012
+
+2239 4443 3080
+ART Ze, ALT WeeeT",2239 4443 3080
+2025-10-24 22:59:13,pancard.jpg,,INCOME TAX,07/08/2004,Not Found,1.0,Fake Aadhaar,"—$—$—$—$ a
+
+INCOME TAX DEPARTMENT
+
+cart den wen ars
+
+Permanent Account Number Card
+PFVPK0109D
+
+ata | Name
+KORITALA SOWJANYA
+
+fae cht ATs / Father's Name
+BHASKARA RAO KORITALA
+
+wadietia 6 92
+Ga foot Ke Sayer.
+
+07/08/2004 PETA I Signature",Not Found
+2025-10-24 23:00:00,053b0341-9c4a-4cec-bc30-5c2ea8abb400.png,,NARENDRA MODI,17/09/1950,Male,0.0,Valid Aadhaar,"RO,
+
+(ONE
+
+ala / Name:
+NARENDRA MODI
+
+ura arta / DOB: 17/09/1950
+yey / Male
+
+8374 3834 7012",8374 3834 7012
+2025-10-24 23:00:31,1c30985b-da11-4c74-a2d1-6a3a61caea1e.png,,Not Found,Not Found,Not Found,1.0,Fake Aadhaar,"RO,
+
+(ONE",Not Found
+2025-10-25 06:07:41,WhatsApp_Image_2025-09-28_at_11.05.55_8a5d4c0f.jpg,,BIN CNTS,Not Found,Male,1.0,Fake Aadhaar,"bin CNTs Sasgew
+= Cc GOVERM ERNMENT OF NDAs
+
+Seere 083 Lod ero
+Koritala Lakshmi Manohari
+
+Spel SoS \0Vear of Birth: 1981 Hix
+89 / Female",Not Found
+2025-10-25 08:58:34,adhar.jpg,,CAAA AY,07/08/2004,Male,0.0,Valid Aadhaar,"CAAA AY \
+CGayernmentorinda——se => “Srrtrre |
+
+Koritala Sowjanya
+cos: 07/08/2004
+Female
+
+Issue.Date: 06/03/2012
+
+2239 4443 3080
+ART Ze, ALT WeeeT",2239 4443 3080
+2025-10-25 08:59:33,pancard.jpg,,INCOME TAX,07/08/2004,Not Found,1.0,Fake Aadhaar,"—$—$—$—$ a
+
+INCOME TAX DEPARTMENT
+
+cart den wen ars
+
+Permanent Account Number Card
+PFVPK0109D
+
+ata | Name
+KORITALA SOWJANYA
+
+fae cht ATs / Father's Name
+BHASKARA RAO KORITALA
+
+wadietia 6 92
+Ga foot Ke Sayer.
+
+07/08/2004 PETA I Signature",Not Found
+2025-10-25 14:15:45,adhar.jpg,,CAAA AY,07/08/2004,Male,0.0,Valid Aadhaar,"CAAA AY \
+CGayernmentorinda——se => “Srrtrre |
+
+Koritala Sowjanya
+cos: 07/08/2004
+Female
+
+Issue.Date: 06/03/2012
+
+2239 4443 3080
+ART Ze, ALT WeeeT",2239 4443 3080
+2025-10-25 14:17:11,83a0ac8e-5a55-4a3c-8556-d56fc2343042.png,,DONALD TRUMP,16/07/1946,Not Found,1.0,Fake Aadhaar,"donald trump
+oa ak / DOB: 16/07/1946",Not Found
+2025-10-25 14:18:30,053b0341-9c4a-4cec-bc30-5c2ea8abb400.png,,NARENDRA MODI,17/09/1950,Male,0.0,Valid Aadhaar,"RO,
+
+(ONE
+
+ala / Name:
+NARENDRA MODI
+
+ura arta / DOB: 17/09/1950
+yey / Male
+
+8374 3834 7012",8374 3834 7012
+2025-10-25 14:29:23,WhatsApp_Image_2025-10-25_at_14.28.45_d5745851.jpg,,KOWA PALYS,Not Found,Male,0.0,Valid Aadhaar,"semmrnonns 9
+
+Fogmcys
+
+Kowa Palys Darshint
+
+‘Sox}S SAyDOR: 0701/2005
+S/FEMALE
+
+Aschaar is proof of Kdentity, not of citizenship
+lor date of birth, & should be used with verification {online|
+authentication, or scanning af QA coda / affine XML},
+
+7089 1985 3383
+
+m= esGrGS, = coGox",7089 1985 3383
+2025-10-25 21:07:04,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:22:12,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:24:22,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:30:53,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:31:59,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:33:13,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:52:16,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675
+2025-10-25 21:53:33,sample_image1.jpg,,AFTRTS FART,07/08/2002,Male,0.0,Valid Aadhaar,"Clair
+
+aftrts fart
+Abhishek Tiwari
+ava TARY / DOB : 07/08/2002
+
+Get / MALE
+
+_____ 8173 2997 3675
+ART ame, AL WAT",8173 2997 3675

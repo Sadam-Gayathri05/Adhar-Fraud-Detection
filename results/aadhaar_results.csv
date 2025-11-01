@@ -1,0 +1,3 @@
+filename,aadhaar_no,name,dob,gender,raw_text,valid_aadhaar,fraud_score
+adhar.jpg,,,,Female,"Female
+",False,0
